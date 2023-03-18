@@ -1,0 +1,5 @@
+include:
+  - authentication-microservice/.gitlab-ci.yml
+  - contract-microservice/.gitlab-ci.yml
+  - message-microservice/.gitlab-ci.yml
+  - api-gateway/.gitlab-ci.yml
