@@ -1,4 +1,4 @@
-# README
+# Human Resources Administration System
 
 This project includes three microservices:
 - authentication-microservice
